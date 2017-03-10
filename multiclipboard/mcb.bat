@@ -1,1 +1,0 @@
-@pyw.exe C:\Users\kaiga\Documents\REPOS\zanurkujwpythonie\mcb.py %*
